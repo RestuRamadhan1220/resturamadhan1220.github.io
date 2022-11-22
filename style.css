@@ -1,0 +1,23 @@
+body {
+    background-image:linear-gradient(to right, black, darkblue ) ;
+}
+.hbd {
+    text-align: center;
+    color: white;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.woi {
+    font-size: 13px;
+    color: white;
+
+}
+.judul {
+    text-align: center;
+    background-color: white;
+    color: black;
+}
